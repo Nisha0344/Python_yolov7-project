@@ -1,0 +1,51 @@
+
+[
+    {
+        "object": "person",
+        "id": "object_0",
+        "bbox": [
+            50,
+            50,
+            150,
+            150
+        ],
+        "confidence": 0.9,
+        "subobjects": [
+            {
+                "subobject": "example_subobject",
+                "id": "subobject_0_sub",
+                "bbox": [
+                    55,
+                    55,
+                    145,
+                    145
+                ],
+                "confidence": 0.81
+            }
+        ]
+    },
+    {
+        "object": "car",
+        "id": "object_1",
+        "bbox": [
+            200,
+            200,
+            300,
+            300
+        ],
+        "confidence": 0.8,
+        "subobjects": [
+            {
+                "subobject": "example_subobject",
+                "id": "subobject_1_sub",
+                "bbox": [
+                    205,
+                    205,
+                    295,
+                    295
+                ],
+                "confidence": 0.7200000000000001
+            }
+        ]
+    }
+]
